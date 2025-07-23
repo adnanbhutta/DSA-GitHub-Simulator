@@ -1,5 +1,5 @@
 # GitHub Repository Simulator 📂🚀
-A complete simulation of GitHub functionality implemented using **C++** and **Data Structures** (Linked Lists). This is a **Semester Project** for Data Structure Lab by Adnan Ali and Abdullah Zain.
+A complete simulation of GitHub functionality implemented using **C++** and **Data Structures** (Linked Lists). This is a **Semester Project** for Data Structure Lab by Adnan Ali.
 
 ---
 
